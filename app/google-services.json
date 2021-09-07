@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655761775548",
+    "project_id": "koachai-eb4f8",
+    "storage_bucket": "koachai-eb4f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655761775548:android:d4781fb31c41a696e169b9",
+        "android_client_info": {
+          "package_name": "com.example.sreevarsh.koach_ai_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655761775548-ancqjpj3tickaut53ngjok8ombihtmgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjziP65bRKFnzm8eIXZKNhDezuh_kgtG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655761775548-ancqjpj3tickaut53ngjok8ombihtmgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
